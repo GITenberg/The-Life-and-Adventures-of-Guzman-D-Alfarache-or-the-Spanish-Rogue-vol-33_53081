@@ -1,5 +1,5 @@
 _repo: The-Life-and-Adventures-of-Guzman-D-Alfarache-or-the-Spanish-Rogue-vol-33_53081
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Brady, John Henry
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '6207'
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+covers:
+- cover_type: archival
+  image_path: 53081-h/images/cover.jpg
 creator:
   author:
     agent_name: Alemán, Mateo
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '49350'
     url: http://www.gutenberg.org/2009/agents/49350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53081#The-Life-and-Adventures-of-Guzman-D-Alfarache-or-the-Spanish-Rogue-vol-33
 gutenberg_issued: '2016-09-18'
 gutenberg_type: Text
 identifiers:
